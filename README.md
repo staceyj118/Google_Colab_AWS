@@ -28,3 +28,5 @@ Goal will be to perform the ETL process completely in the cloud and upload a Dat
 ### Libraries
 Google Colab
 AWS
+Spark
+Postgres
